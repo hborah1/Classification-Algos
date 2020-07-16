@@ -1,1 +1,2 @@
-# The Accuracy of different Classification Algos on a Cancer Dataset
+# Exploratory Data Analysis on Palmer Penguins(IRIS alt.)
+# Cancer Dataset Analysis
